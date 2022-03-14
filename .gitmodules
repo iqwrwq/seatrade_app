@@ -1,0 +1,9 @@
+[submodule "company_app"]
+	path = company_app
+	url = https://github.com/iqwrwq/company_app.git
+[submodule "ship_app"]
+	path = ship_app
+	url = https://github.com/iqwrwq/ship_app.git
+[submodule "seatrade_doc"]
+	path = seatrade_doc
+	url = https://github.com/iqwrwq/seatrade_doc.git
