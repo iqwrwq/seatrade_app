@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/company_app/lib/tinylog-api-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company_app/lib/annotations-20.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company_app/lib/annotations-20.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company_app/lib/btc-ascii-table-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company_app/lib/annotations-20.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/company_app/lib/tinylog-impl-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zips">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/seatrade_doc/zips/CompanyApp_v1.0.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/seatrade_doc/zips/ShipApp_v1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/seatrade_doc/zips/CompanyApp_v1.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

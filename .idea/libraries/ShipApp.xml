@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShipApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ship_app/out/artifacts/ShipApp/ShipApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
